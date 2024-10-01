@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modblocker",
+  "name": "Mod Blocker",
+  "description": "To block player who using target mod by mod id.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["umeow"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,16 @@
+// DONT MODIFY THIS FILE, the config file is in `config` directory `modblocker.json`
+{
+    "chat": true,
+    "chatMessage": "{username} kick from server by Mod Blocker!",
+    "defaultMessage": "{username}, You be kick by Mod Blocker!", 
+    "blockList": [
+        {
+            "id": "examplemod1",
+            "message": "{username}, You be kick from server by Mod Blocker, because using {modid}"
+        },
+        {
+            "id": "examplemod2",
+            "message": ""
+        }
+    ]
+}
